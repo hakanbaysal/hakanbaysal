@@ -24,11 +24,11 @@
 ## 🧑‍🚀 About Me
 
 ```yaml
-name: Baysal
-role: Software Developer
+name: Hakan Baysal
+role: Problem Solver
 status: free to contribute 🤝
 mindset: "I do not hesitate to consult and research."
-hobby & job & curiosity: software development
+hobby & job & curiosity: camping
 spare time: hobby IoT projects with embedded systems
 weekly grind: ~75 hours of building and learning
 favorite activity: brain hurricanes 🌪️ + sharing what I know
@@ -46,7 +46,7 @@ website: www.hakanbaysal.com
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Go-F7DF1E?style=for-the-badge&logo=go&logoColor=black" alt="Go"/>
 
 ### Frameworks & Runtime
 
@@ -98,10 +98,6 @@ website: www.hakanbaysal.com
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanbaysal&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hakanbaysal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
 </div>
 
 <br/>
