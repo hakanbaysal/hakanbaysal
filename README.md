@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/hakanbaysal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Baysal!+%F0%9F%91%8B;An+earthling+keeping+up+with+change;Software+is+my+hobby%2C+job+%26+curiosity;75+hours%2Fweek+of+building+%26+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Hakan+Baysal!+%F0%9F%91%8B;An+earthling+keeping+up+with+change;Software+is+my+hobby%2C+job+%26+curiosity;75+hours%2Fweek+of+building+%26+learning" alt="Typing SVG" />
   </a>
 </div>
 
