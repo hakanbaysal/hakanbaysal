@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <a href="https://www.hakanbaysal.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hakan%20Baysal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20IoT%20%26%20Embedded%20Systems%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hakan%20Baysal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20IoT%20and%20Embedded%20Systems&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- TYPING ANIMATION -->
