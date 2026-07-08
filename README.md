@@ -128,6 +128,7 @@ website: www.hakanbaysal.com
 | Project | Contribution |
 |---|---|
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed model-load progress reporting in llama-server](https://github.com/unslothai/unsloth/pull/6790) |
+| [onuragtas/redock](https://github.com/onuragtas/redock) <img src="https://img.shields.io/github/stars/onuragtas/redock?style=flat&logo=github&color=36BCF7" alt="stars"/> | [PHP 8.4 build support](https://github.com/onuragtas/redock/pull/3) — collaborator |
 
 </div>
 
