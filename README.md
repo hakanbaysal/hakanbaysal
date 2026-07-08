@@ -50,10 +50,11 @@ website: www.hakanbaysal.com
 
 ### Frameworks & Runtime
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 
 ### Databases
 
@@ -61,6 +62,16 @@ website: www.hakanbaysal.com
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+<img src="https://img.shields.io/badge/LanceDB-E2422E?style=for-the-badge&logo=databricks&logoColor=white" alt="LanceDB"/>
+
+### AI & LLM
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/vLLM-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="vLLM"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="Fine-Tuning"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=elasticstack&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
 
 ### DevOps & Tools
 
@@ -104,10 +115,6 @@ website: www.hakanbaysal.com
 <div align="center">
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language"/>
   <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hakanbaysal&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
 </div>
 
 <br/>
