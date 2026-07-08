@@ -128,6 +128,7 @@ website: www.hakanbaysal.com
 | Project | Contribution |
 |---|---|
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed model-load progress reporting in llama-server](https://github.com/unslothai/unsloth/pull/6790) |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) <img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed POSIX shell handling in batch commands](https://github.com/mksglu/context-mode/pull/934) · [runPool concurrency fix](https://github.com/mksglu/context-mode/pull/932) |
 | [onuragtas/redock](https://github.com/onuragtas/redock) <img src="https://img.shields.io/github/stars/onuragtas/redock?style=flat&logo=github&color=36BCF7" alt="stars"/> | [PHP 8.4 build support](https://github.com/onuragtas/redock/pull/3) — collaborator |
 
 </div>
