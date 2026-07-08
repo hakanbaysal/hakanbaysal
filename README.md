@@ -91,13 +91,37 @@ website: www.hakanbaysal.com
 
 ## 📊 GitHub Stats
 
+<!-- Kartlar .github/workflows/profile-summary-cards.yml tarafından her gün üretilip repoya commit edilir — dış servise bağımlı değildir -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakanbaysal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanbaysal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="top langs"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanbaysal&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language"/>
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hakanbaysal&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
+</div>
+
+<br/>
+
+## 🌍 Open Source Contributions
+
+> Projects I've contributed to with merged pull requests.
+
+<div align="center">
+
+| Project | Contribution |
+|---|---|
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed model-load progress reporting in llama-server](https://github.com/unslothai/unsloth/pull/6790) |
+
 </div>
 
 <br/>
