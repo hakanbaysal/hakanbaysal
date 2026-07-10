@@ -37,6 +37,23 @@ website: www.hakanbaysal.com
 
 <br/>
 
+## 🌍 Open Source Contributions
+
+> Projects I've contributed to.
+
+<div align="center">
+
+| Project | Contribution |
+|---|---|
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Cron failure-alert routing fix](https://github.com/openclaw/openclaw/pull/102445) — co-authored, merged; original patch in [#102247](https://github.com/openclaw/openclaw/pull/102247) |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed model-load progress reporting in llama-server](https://github.com/unslothai/unsloth/pull/6790) |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) <img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed POSIX shell handling in batch commands](https://github.com/mksglu/context-mode/pull/934) · [runPool concurrency fix](https://github.com/mksglu/context-mode/pull/932) |
+| [onuragtas/redock](https://github.com/onuragtas/redock) <img src="https://img.shields.io/github/stars/onuragtas/redock?style=flat&logo=github&color=36BCF7" alt="stars"/> | [PHP 8.4 build support](https://github.com/onuragtas/redock/pull/3) — collaborator |
+
+</div>
+
+<br/>
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -115,22 +132,6 @@ website: www.hakanbaysal.com
 <div align="center">
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language"/>
   <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time"/>
-</div>
-
-<br/>
-
-## 🌍 Open Source Contributions
-
-> Projects I've contributed to with merged pull requests.
-
-<div align="center">
-
-| Project | Contribution |
-|---|---|
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed model-load progress reporting in llama-server](https://github.com/unslothai/unsloth/pull/6790) |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) <img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed POSIX shell handling in batch commands](https://github.com/mksglu/context-mode/pull/934) · [runPool concurrency fix](https://github.com/mksglu/context-mode/pull/932) |
-| [onuragtas/redock](https://github.com/onuragtas/redock) <img src="https://img.shields.io/github/stars/onuragtas/redock?style=flat&logo=github&color=36BCF7" alt="stars"/> | [PHP 8.4 build support](https://github.com/onuragtas/redock/pull/3) — collaborator |
-
 </div>
 
 <br/>
