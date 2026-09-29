@@ -149,7 +149,11 @@ Arranges MCP servers into one gated tree behind a single gateway: a child server
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanbaysal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff" alt="activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakanbaysal/hakanbaysal/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakanbaysal/hakanbaysal/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/hakanbaysal/hakanbaysal/output/github-snake-dark.svg" alt="contribution graph"/>
+  </picture>
 </div>
 
 <br/>
