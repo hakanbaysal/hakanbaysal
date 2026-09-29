@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <a href="https://www.hakanbaysal.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hakan%20Baysal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20IoT%20and%20Embedded%20Systems&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hakan%20Baysal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%26%20Founder%20%7C%20IoT%20and%20Embedded%20Systems&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- TYPING ANIMATION -->
@@ -37,18 +37,28 @@ website: www.hakanbaysal.com
 
 <br/>
 
+## 🚀 Featured Project
+
+### [▚ Trellis](https://github.com/hakanbaysal/trellis) — a hierarchical, gating MCP proxy
+
+Arranges MCP servers into one gated tree behind a single gateway: a child server only unlocks after its parent has run, and the order is enforced in code rather than left to the model. Exports a single MCP config for the IDE. TypeScript · Docker · MIT.
+
+<br/>
+
 ## 🌍 Open Source Contributions
 
-> Projects I've contributed to.
+> Pull requests I've authored in public projects. Status is shown as it stands on GitHub.
 
 <div align="center">
 
-| Project | Contribution |
-|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Cron failure-alert routing fix](https://github.com/openclaw/openclaw/pull/102445) — co-authored, merged; original patch in [#102247](https://github.com/openclaw/openclaw/pull/102247) |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed model-load progress reporting in llama-server](https://github.com/unslothai/unsloth/pull/6790) |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) <img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Fixed POSIX shell handling in batch commands](https://github.com/mksglu/context-mode/pull/934) · [runPool concurrency fix](https://github.com/mksglu/context-mode/pull/932) |
-| [onuragtas/redock](https://github.com/onuragtas/redock) <img src="https://img.shields.io/github/stars/onuragtas/redock?style=flat&logo=github&color=36BCF7" alt="stars"/> | [PHP 8.4 build support](https://github.com/onuragtas/redock/pull/3) — collaborator |
+| Project | Contribution | Status |
+|---|---|---|
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Report a complete load once llama-server is healthy](https://github.com/unslothai/unsloth/pull/6790) · [Shard export checkpoint loads across all visible GPUs](https://github.com/unslothai/unsloth/pull/7215) · [System-wide VRAM in the multi-GPU view on ROCm](https://github.com/unslothai/unsloth/pull/7216) · [Active run's saved config in the Training Progress popover](https://github.com/unslothai/unsloth/pull/7217) · [Classify embedding models from the HF cache, honor offline mode](https://github.com/unslothai/unsloth/pull/7218) | 5 merged |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Cron failure-alert routing fix](https://github.com/openclaw/openclaw/pull/102445) — original patch in [#102247](https://github.com/openclaw/openclaw/pull/102247) | Merged, co-authored |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat&logo=github&color=36BCF7" alt="stars"/> | [Preserve assistant messages with tool_calls when stripping images](https://github.com/NousResearch/hermes-agent/pull/66714) — landed via [#97126](https://github.com/NousResearch/hermes-agent/pull/97126) with authorship preserved ([cb8027a](https://github.com/NousResearch/hermes-agent/commit/cb8027afed)) | Merged |
+| | [Key sys.modules on hook directory name to prevent collisions](https://github.com/NousResearch/hermes-agent/pull/66713) | Open |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) <img src="https://img.shields.io/github/stars/mksglu/context-mode?style=flat&logo=github&color=36BCF7" alt="stars"/> | [POSIX shell handling in batch commands](https://github.com/mksglu/context-mode/pull/934) · [runPool capped-report fix](https://github.com/mksglu/context-mode/pull/932) · [Opt-in exec timeout bound](https://github.com/mksglu/context-mode/pull/968) · [Re-create fs-preload temp file](https://github.com/mksglu/context-mode/pull/969) · [Sessions directory retention](https://github.com/mksglu/context-mode/pull/970) | 5 open |
+| [onuragtas/redock](https://github.com/onuragtas/redock) <img src="https://img.shields.io/github/stars/onuragtas/redock?style=flat&logo=github&color=36BCF7" alt="stars"/> | [PHP 8.4 build support](https://github.com/onuragtas/redock/pull/3) | Merged, collaborator |
 
 </div>
 
